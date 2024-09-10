@@ -54,6 +54,9 @@ for i in range(1000):
     #   obs = env.reset()
 
 env.close()
+
+```
+
 ## Citation
 
 If you use this repo in your work, please cite:
